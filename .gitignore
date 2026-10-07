@@ -1,0 +1,9 @@
+# Données volumineuses ou générées
+data/raw/
+data/processed/
+
+# Fichiers système / temporaires
+*.Zone.Identifier
+.DS_Store
+__pycache__/
+*.pyc
